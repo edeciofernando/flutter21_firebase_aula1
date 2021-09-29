@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563154378277",
+    "project_id": "artistas-noite",
+    "storage_bucket": "artistas-noite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563154378277:android:0fc2ebb936a95313ffe9cc",
+        "android_client_info": {
+          "package_name": "com.example.artistas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563154378277-ef00ermnomjpcoo2kuoupcpqqlu752kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHtS-LYe0p0pZM1qUWtY1BgcOXyp_W7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563154378277-ef00ermnomjpcoo2kuoupcpqqlu752kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
